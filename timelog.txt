@@ -1,0 +1,154 @@
+David                  2022-04-30         13:15-13:30  Start building outline and time log 
+
+David                  2022-04-30         14:20-15:35  Building outline and find news site  
+
+David                  2022-04-30         15:35-15:50  Finished writing procedures “take-website” 
+
+David                  2022-04-30         15:50-16:05  Finished writing procedures “list-of-title-words” 
+
+David                  2022-04-30         18:40-18:55  Looked up NYT’s page source and decided to use the Guardian instead 
+
+David                  2022-05-01        15:35-15:50   Start writing “guardian-pattern” 
+
+David                  2022-05-01        15:50-16:05   Finish writing “guardian-pattern” 
+
+David                  2022-05-01        16:05-16:20   Started writing procedure that deletes repeated element 
+
+David                  2022-05-01        16:20-16:45   Writing procedure that deletes repeated element and found out we already have“remove-duplicates”  
+
+David                  2022-05-01        16:45-17:00    write “word-sort”  
+
+David                  2022-05-01        17:00-17:15     Integrating codes with Ziya 
+
+David                  2022-05-01        17:15-17:30    Integrating codes with Ziya 
+
+David                  2022-05-02        13:20-13:45    Started building “useless-words.txt” 
+
+David                  2022-05-02        13:20-13:45     Finished building “useless-words.txt”, started writing “remove-useless-words” 
+
+David                  2022-05-02        13:45-14:00    Finished writing “remove-useless-words” 
+
+David                  2022-05-02        14:00-14:15    Started writing “remove-punctuation” 
+
+David                  2022-05-02        21:15-21:30    Continued writing “remove-punctuation” 
+
+David                  2022-05-02       21:30-21:45    Build “punctuation-list” 
+
+David                  2022-05-02       21:45-22:00    Still writing “remove-punctuation” 
+
+David                  2022-05-02       22:00-22:15    Finish writing “remove-punctuation” 
+
+David                  2022-05-02       22:15-22:30   Update “count-words” and “title-words” 
+
+David                  2022-05-02       22:30-22:45   Update “count-words” and “title-words” 
+
+David                  2022-05-02       22:45-23:00   Update “count-words” and “title-words” 
+
+David                  2022-05-02       23:00-23:15   Update “count-words” and “title-words” Ziya           
+
+David                  2022-05-02       23:15-23:30   Discussing with Ziya and Tim about adding more information. 
+
+David                  2022-05-03       21:45-22:00   Update “word sort” and useless word list 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ziya                  2022-04-30           14:20-15:35  Building outline and find news site 
+
+Ziya                  2022-04-30           15:35-15:50  Researched about DrRacket package (require net/url) 
+
+Ziya                  2022-04-30            15:50-16:05  Researched how to extract titles from webpage and finished writing “fox-news-home" 
+
+Ziya                  2022-04-30            18:40-18:55  Looked up NYT’s page source and decided to use the Guardian instead 
+
+Ziya                  2022-05-01            15:35-15:50  Finished writing documentation for “take-website”, “take-titles”, and “title-words” 
+
+Ziya                  2022-05-01            15:50-16:05  Finished writing “wall-street-home" and “wall-street-pattern1" 
+
+Ziya                  2022-05-01            16:05-16:20  Finished writing “wall-street-pattern2" and “wall-street-title-words" 
+
+Ziya                  2022-05-01            16:20-16:45  Start writing a procedure that deletes repeated elements, and found “remove-duplicates” in Racket Guide 
+
+Ziya                  2022-05-01            16:45-17:00  finished writing “wall-street-pattern3"  
+
+Ziya                  2022-05-01            17:00-17:15 Integrating codes with David 
+
+Ziya                  2022-05-01            17:15-17:30 Integrating codes with David 
+
+Ziya                  2022-05-02            13:20-13:45 Started building “usless-words.txt” 
+
+Ziya                  2022-05-02            13:45-14:00 Finished building “useless-words.txt”, started writing “remove-useless-words" 
+
+Ziya                  2022-05-02            14:00-14:15 Revising “remove-useless-words" and entering time-log 
+
+Ziya                  2022-05-02            23:15-23:30 Discussing with David and Tim about adding more information. 
+
+Ziya                  2022-05-03            14:00-14:15 Testing code to see if result matches Roe v. Wade and Supreme Court  
+
+Ziya                  2022-05-04            21:45-22:00 Started reading code by David and Mingguang
+
+Ziya                  2022-05-04            22:00-22:15 Finished documentation and talked with David about improvement
+
+Ziya                  2022-05-04            22:15-22:30 Wrote documentation for the project and updated useless-words.txt.
+
+Ziya                  2022-05-04            22:30-22:45 Started writing "abc-home" and "abc-pattern".
+
+Ziya                  2022-05-04            22:45-23:00 Finished writing "abc-home" and "abc-pattern", and "abc-chart".
+
+Ziya                  2022-05-04            23:00-23:15 Made (bar-chart) more concise.
+
+Ziya                  2022-05-05            20:45-21:00 Wrote documentation for several procedures.
+
+
+ 
+
+ 
+
+Mingguang     2022-05-02            20:45-21:00 reading previous MP 2 to get information to make chart. 
+
+Mingguang     2022-05-02            21:15-21:30 Integrating codes with David 
+
+Mingguang     2022-05-02            21:30-21:45 Start adding bar-chart 
+
+Mingguang     2022-05-02            21:45-22:00 Adding bar-chart 
+
+Mingguang     2022-05-02            22:00-22:15 Discuss with David about how to write efficient code 
+
+Mingguang     2022-05-02            22:15-22:30 Finished writing “take-first-five-words" procedure 
+
+Mingguang     2022-05-02            22:30-22:45 Testing the program and correcting the error 
+
+Mingguang     2022-05-02            22: 45-23:00 Integrating code with Ziya and David 
+
+Mingguang     2022-05-02            23:15-23:30 Discuss with Ziya and David about adding more information. 
+
+Mingguang     2022-05-05            15:15-15:30 Set up a powerpoint
+
+Mingguang     2022-05-05            15:30-15:45 Put some stuffs and choose themes of the powerpoint
+
+Mingguang     2022-05-05            15:45-16:00 Working on the powerpoint.
